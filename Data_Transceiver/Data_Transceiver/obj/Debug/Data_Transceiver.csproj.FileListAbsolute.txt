@@ -1,0 +1,36 @@
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.exe.config
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.exe
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.pdb
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.csprojResolveAssemblyReference.cache
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.Properties.Resources.resources
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.csproj.GenerateResource.Cache
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.exe
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.pdb
+c:\users\valentyn\documents\visual studio 2015\Projects\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.Form1.resources
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.exe.config
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.exe
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.pdb
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.exe
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.pdb
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.csprojResolveAssemblyReference.cache
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.Form1.resources
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.Properties.Resources.resources
+d:\Планирование жизни\План Образование\Universities\СПбПУ\4_Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.csproj.GenerateResource.Cache
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.exe.config
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.exe
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.exe
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.pdb
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.csprojResolveAssemblyReference.cache
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.Form1.resources
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.Properties.Resources.resources
+d:\Plan Life\Higher Education\Universities\SPbSTU\Subjects\3 semester\Intelligent Computing\Lab4_Data_Transceiver\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.csproj.GenerateResource.Cache
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.exe.config
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.exe
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.pdb
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.exe
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\bin\Debug\Data_Transceiver.pdb
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.csprojResolveAssemblyReference.cache
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.Form1.resources
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.Properties.Resources.resources
+c:\Users\Valentyn\Downloads\Data_Transceiver\Data_Transceiver\obj\Debug\Data_Transceiver.csproj.GenerateResource.Cache
