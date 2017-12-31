@@ -1,3 +1,13 @@
+// File: sketch_oct03b.ino
+// Description: The simpiest sketch
+// Environment: Arduino IDE
+//
+// MIT License
+// Copyright (c) 2017 Valentyn N Sichkar
+// github.com/sichkar-valentyn
+//
+// Reference to:
+// [1] Valentyn N Sichkar. C# program to communicate with Arduino // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/C_Sharp_Windows_Form_data_transceiver (date of access: XX.XX.XXXX)
 
 int b;
 

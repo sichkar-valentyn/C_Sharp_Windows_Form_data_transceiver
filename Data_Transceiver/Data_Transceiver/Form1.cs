@@ -1,4 +1,15 @@
-﻿using System;
+// File: Form1.cs
+// Description: C# program to communicate with Arduino
+// Environment: Visual Studio 2015, C#
+//
+// MIT License
+// Copyright (c) 2017 Valentyn N Sichkar
+// github.com/sichkar-valentyn
+//
+// Reference to:
+// [1] Valentyn N Sichkar. C# program to communicate with Arduino // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/C_Sharp_Windows_Form_data_transceiver (date of access: XX.XX.XXXX)
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
