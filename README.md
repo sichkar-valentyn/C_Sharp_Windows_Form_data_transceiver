@@ -1,6 +1,9 @@
 # C Sharp Windows Form data transceiver
 C# program to communicate with Arduino
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. C# program to communicate with Arduino // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/C_Sharp_Windows_Form_data_transceiver (date of access: XX.XX.XXXX)
 
